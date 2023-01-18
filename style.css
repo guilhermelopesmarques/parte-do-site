@@ -1,0 +1,195 @@
+.menu {
+
+
+
+    display: flex;
+
+    /* deixa o texto deitado escrevendo corrido que quebre o texto*/
+
+
+
+}
+
+
+
+.menu li a {
+
+    display: block;
+
+    /*cria texto fixo*/
+
+    padding: 8px;
+
+    /*grossura do quadrado*/
+
+
+
+
+}
+
+
+
+.menu li {
+
+    margin-left: 10px
+
+}
+
+
+
+/* separa o texto  */
+
+
+
+.header {
+
+    display: flex;
+    background-color: rgb(0, 92, 121);
+
+    padding: 100px;
+
+    align-items: center;
+
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+
+
+
+}
+
+
+
+.s {
+
+    position: absolute;
+
+    width: 115px;
+
+    height: 25px;
+
+    left: 8px;
+
+    top: 100px;
+
+    background: #D9D9D9;
+
+    border-radius: 57px;
+
+    text-align: center;
+
+}
+
+
+
+.a {
+
+    position: absolute;
+
+    width: 115px;
+
+    height: 25px;
+
+    left: 200px;
+
+    top: 100px;
+
+    background: #D9D9D9;
+
+    border-radius: 57px;
+
+    text-align: center;
+
+}
+
+
+
+.b {
+
+    position: absolute;
+
+    width: 115px;
+
+    height: 25px;
+
+    left: 400px;
+
+    top: 100px;
+
+    background: #D9D9D9;
+
+    border-radius: 57px;
+
+    text-align: center;
+
+}
+
+
+
+.barra {
+
+    position: absolute;
+
+    width: 600px;
+
+    height: 25px;
+
+    left: 989px;
+
+    top: 100px;
+
+    background: #D9D9D9;
+
+    border-radius: 57px;
+
+    text-align: center;
+
+    text-align: left;
+
+}
+
+
+
+.divBusca {
+
+    position: absolute;
+
+    width: 600px;
+
+    height: 25px;
+
+    left: 989px;
+
+    top: 100px;
+
+    background: #D9D9D9;
+
+    border-radius: 57px;
+
+    text-align: center;
+
+    text-align: left;
+
+}
+.img{
+    position: absolute;
+    width: 500px;
+    height: 600px;
+    left: 150px;
+    top: 350px;
+    background: rgb(43, 123, 220);
+}
+.detalhes{
+    position: absolute;
+    width: 500px;
+    height: 600px;
+    left: 900px;
+    top: 350px;
+    background: rgb(24, 144, 205);
+    
+}
+
+
+
+
+
