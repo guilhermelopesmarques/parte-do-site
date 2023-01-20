@@ -171,7 +171,7 @@
     text-align: left;
 
 }
-.img{
+.imagens{
     position: absolute;
     width: 500px;
     height: 600px;
@@ -221,7 +221,22 @@
     padding: 150px;
     background: aquamarine;
 }
+.estrela{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+}
+.estreladesligada{ 
 
+
+    width: 40px;
+    height: 40px;
+}
+.posicao{
+    position: absolute;
+    left: 1000px;
+}
 
 
 
